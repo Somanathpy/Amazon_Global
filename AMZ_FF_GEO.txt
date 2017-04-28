@@ -1,0 +1,144 @@
+NAME,LATITUDE,LONGITUDE
+"Goodyear, Arizona",33.4356089,-112.3579115
+"Phoenix, Arizona",33.4485866,-112.0773455
+"Eastvale, California",33.9766799,-117.5598443
+"Irvine, California",33.6856969,-117.8259818
+"San Bernardino, California",34.1083449,-117.2897651
+"Patterson, California",37.471623,-121.1296948
+"Tracy, California",37.718829,-121.434379759455
+"Stockton, California",37.9577016,-121.2907795
+"Newark, California",37.5296593,-122.0402398
+"Moreno Valley, California",33.937517,-117.2305943
+"Redlands, California",34.0707195,-117.099505578628
+"Windsor Locks, Connecticut",41.9229568,-72.6597963667531
+"Middletown, Delaware",39.449556,-75.7163206
+"New Castle, Delaware",39.6159851,-75.6629559
+"Davenport, Florida",28.1614046,-81.6017416
+"Ruskin, Florida",27.7208575,-82.4331527
+"Lakeland, Florida",28.0394654,-81.9498041
+"Doral, Florida",25.8184725,-80.3539678130979
+"East Point, Georgia",33.6654335,-84.4864894515675
+"Lithia Springs, Georgia",33.7939953,-84.6604898
+"Union City, Georgia",33.5870558,-84.5424298
+"Jeffersonville, Indiana",38.2770227,-85.7371603
+"Plainfield, Indiana",39.7042123,-86.3994386
+"Whitestown, Indiana",39.9972626,-86.3458295
+"Indianapolis, Indiana",39.7683331,-86.1583501
+"Joliet, Illinois",41.525031,-88.0817251
+"Edwardsville, Illinois",38.8114364,-89.9531569
+"Lenexa, Kansas",38.953669,-94.7337339
+"Edgerton,Kansas",38.7647302,-95.0080223
+"Campbellsville, Kentucky",37.3433974,-85.3419068
+"Hebron, Kentucky",39.0658928,-84.7010575
+"Lexington, Kentucky",38.0464066,-84.4970392
+"Louisville, Kentucky",38.2542376,-85.7594069
+"Shepherdsville, Kentucky",37.9883991,-85.7157923
+"Baltimore, Maryland",39.2908816,-76.6107589
+"Fall River, Massachusetts",41.7010642,-71.1546366
+"Stoughton, Massachusetts",42.1250995,-71.1022711
+"Shakopee, Minnesota",44.7980186,-93.5268985
+"Fernley, Nevada",39.5483805,-119.214468455863
+"North Las Vegas, Nevada",36.2008371,-115.1120957
+"Reno, Nevada",39.52927,-119.8136743
+"Nashua, New Hampshire",42.7653662,-71.4675659
+"Avenel, New Jersey",40.5803818,-74.2851468
+"Carteret, New Jersey",40.5773266,-74.2282004
+"Robbinsville Township, New Jersey",40.223352,-74.5896307722837
+"Swedesboro, New Jersey",39.7476136,-75.3104653
+"Florence, New Jersey",39.7342825,-74.9182197
+"Charlotte, North Carolina",35.2270869,-80.8431267
+"Concord, North Carolina",35.4093772,-80.5797415
+"Durham, North Carolina",35.9940329,-78.8986189
+"Carlisle, Pennsylvania",40.201824,-77.1893887
+"Hazleton, Pennsylvania",40.9646867,-75.9852788
+"Easton, Pennsylvania",40.6916081,-75.2099865
+"Gouldsboro, Pennsylvania",41.2445293,-75.4560182
+"Lewisberry, Pennsylvania",40.1350929,-76.8596944
+"Breinigsville, Pennsylvania",40.5367627,-75.6312996
+"Harrisburg, Pennsylvania",40.2663107,-76.8861121
+"Pittsburgh, Pennsylvania",40.4416941,-79.990086
+"Mississauga, Ontario",43.590338,-79.6457289
+"West Columbia, South Carolina",33.9934867,-81.0739825
+"Spartanburg, South Carolina",34.9498007,-81.9320156
+"Chattanooga, Tennessee",35.0456297,-85.30968
+"Charleston, Tennessee",35.4959148,-89.5089637
+"Lebanon, Tennessee",36.208065,-86.2905051
+"Murfreesboro, Tennessee",35.845999,-86.3920451
+"Nashville, Tennessee",36.1622296,-86.774353
+"Coppell, Texas",32.958352,-96.9881829964861
+"Fort Worth, Texas",32.753177,-97.3327458
+"Humble, Texas",29.9988312,-95.2621552
+"San Marcos, Texas",29.8826436,-97.9405827
+"Schertz, Texas",29.5642325,-98.2695329
+"Chester, Virginia",40.6131203,-80.5628477
+"Petersburg, Virginia",37.1924594,-77.3677407
+"Bellevue, Washington",47.6144219,-122.1923371
+"DuPont, Washington",47.0990689,-122.6375462
+"Sumner, Washington",47.2061882,-122.2312382
+"Kent, Washington",47.3826903,-122.2270271
+"Kenosha, Wisconsin",42.5846773,-87.8212262
+"Milton, Ontario",43.513671,-79.8828169
+"Brampton, Ontario",43.714575,-79.7523866
+"Annacis Island , British Columbia",49.1764759,-122.937537206086
+"New Westminster, British Columbia",49.2067004,-122.9108977
+"Cuautitlán Izcalli,Mexico",19.6577015,-99.2322828528613
+"Ridgmont,England",52.0151934,-0.5808837
+"Rugeley, Staffordshire",52.7589402,-1.9362041
+"Peterborough,England",52.5738875,-0.24167
+"Doncaster,England",53.5227681,-1.1335311
+"Hemel Hempstead,England",51.7511784,-0.4725279
+"Reading,England",51.456659,-0.9696511
+"Gourock ,scotland",55.9583921,-4.8183972
+"Dunfermline,scotland",56.0714428,-3.4591479
+"Swansea,Wales",51.6211442,-3.946775
+"boigny sur bionne, France",47.9231036,2.0078601
+"Saran,France",47.9494039,1.8764209
+"Montélimar,France",44.5579391,4.750318
+"Sevrey,France",46.7382911,4.840874
+"Lauwin-Planque,France",50.3913315,3.0338955
+"Bad Hersfeld,Germany",50.8681341,9.7068481
+"Leipzig,Germany",51.3391827,12.3810549
+"Werne ,Germany",51.66268,7.6355052
+"Rheinberg ,Germany",51.5458979,6.6014097
+"Graben ,Germany",51.0802037,7.4029492
+"Koblenz ,Germany",50.3533278,7.5943951
+"Pforzheim ,Germany",48.8908846,8.7029532
+"Brieselang ,Germany",52.5873198,12.9920587
+"Poznan ,Poland",52.4082663,16.9335199
+"Wroclaw, Poland",51.1089776,17.0326689
+"Castel San Giovanni,Italy",45.0590671,9.4341783
+"Milan,Italy",45.4667971,9.1904984
+"Avigliana ,Italy",45.077145,7.398616
+"Passo Corese ,Italy",42.1553466,12.6522056
+"Bratislava,Slovakia",48.1359085,17.1597440625
+"Madrid, Spain",40.4167047,-3.7035824
+"Ichikawa,Japan",35.729412,139.928568
+"Yachiyo,Japan",35.72942,140.098467
+"Chiba,Japan",35.3594614,140.189299948902
+"Sakai,Japan",34.529124,135.50156
+"Daito,Japan",34.710679,135.635478
+"Osaka,Japan",34.704365,135.501887
+"Kawagoe,Japan",35.907982,139.479411
+"Saitama,Japan",36.0183923,139.281463787943
+"Guangzhou,China",23.1387267,113.319321
+"Suzhou,China",31.2984758,120.622239
+"Beijing,China",39.9059631,116.391248
+"Chengdu,China",30.6765553,104.0612783
+"Tianjin,China",39.1235635,117.1980785
+"Shanghai,China",31.2253441,121.4888922
+"Haerbin,China",45.7656666,126.6160584
+"Shenyang,China",41.8045293,123.4277858
+"Jinan,China",36.6507007,117.1140042
+"Nanning,China",22.832567,108.3027254
+"Xi'an,China",34.2191582,109.110194631497
+"Xiamen,China",24.497442,118.1355644
+"Mumbai,India",18.9321862,72.8308337
+"Bangalore,India",12.9791198,77.5912997
+"Hyderabad,India",17.3616227,78.4747305
+"Chennai ,India",13.0801721,80.2838331
+"Ahmedabad,India",23.0216238,72.5797068
+"Jaipur,India",26.9161293,75.8204056
+"Gurgaon,India",28.4646148,77.0299194
+"Pune ,India",18.5203062,73.8543185
+"Delhi,India",28.6517178,77.2219388
+"Kolkata,India",22.5677459,88.3476023

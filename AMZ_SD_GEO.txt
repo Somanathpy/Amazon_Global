@@ -1,0 +1,42 @@
+NAME,LATITUDE,LONGITUDE
+"Austin, Texas",30.2711286,-97.7436994
+"Cambridge, Massachusetts",42.3750997,-71.1056156
+" Herndon, Virginia",38.9695316,-77.3859478
+" Irvine, California",33.6856969,-117.8259818
+" Charleston, South Carolina",32.7876012,-79.9402727
+" Cupertino, California",37.3230107,-122.0322518
+" Orange County, California",33.7500378,-117.870493
+ San Francisco,37.7792808,-122.4192362
+" San Luis Obispo, California",35.2827525,-120.6596155
+ Minneapolis,44.9772995,-93.2654691
+ Seattle,47.6038321,-122.3300623
+ New York,40.7305991,-73.9865811
+"Tempe, Arizona",33.4144139,-111.9094473
+"Detroit, Michigan",42.3486635,-83.0567374
+Vancouver,49.2608944,-123.1139382
+British Columbia,55.0,-124.9999999
+"Toronto, Ontario",43.6529206,-79.3849007
+"Mississauga, Ontario",43.590338,-79.6457289
+São Paulo,-23.5506506,-46.6333823
+"Graz,Austria",47.0702563,15.4385716
+Luxembourg,49.8158683,6.1296751
+Berlin,52.5170365,13.3888599
+ Dresden,51.0493286,13.7381437
+ Dublin,53.4064361,-6.28709715390942
+" The Hague,Netherlands",52.0799838,4.3113461
+"Gdansk, Poland",54.3482259,18.6542888
+"Iasi, Romania",47.161494,27.5840504
+" Madrid, Spain",40.4167047,-3.7035824
+"London,England",51.5073219,-0.1276473
+"Cambridge ,England",52.2033051,0.124862
+" Dunfermline,Scotland",56.0714428,-3.4591479
+" Edinburgh ,Scotland",55.9495628,-3.1914971
+"Bangalore,India",12.9791198,77.5912997
+"Mumbai,India",18.9321862,72.8308337
+" Chennai,India",13.0801721,80.2838331
+" Hyderabad ,India",17.3616227,78.4747305
+" Gurgaon,India",28.4646148,77.0299194
+"Tel Aviv,Israel",32.0804808,34.7805274
+" Meguro,Japan",35.62125,139.688014
+"Beijing,China",39.9059631,116.391248
+"Cape Town, South Africa",-33.9289919,18.417396

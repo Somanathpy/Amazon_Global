@@ -1,0 +1,30 @@
+NAME,LATITUDE,LONGITUDE
+"Kennewick, Washington",46.2112458,-119.1372337
+"Huntington, West Virginia",38.4192496,-82.4451539
+"Grand Forks, North Dakota",47.9078244,-97.0592027
+"Winchester, Kentucky",37.990079,-84.1796502
+Bangalore,12.9791198,77.5912997
+Hyderabad,17.3616227,78.4747305
+Chennai,13.0801721,80.2838331
+Gurgaon,28.4646148,77.0299194
+Jaipur,26.9161293,75.8204056
+Pune,18.5203062,73.8543185
+concentrix philippines,7.10307795,125.634145146915
+"Manila, philippines",14.5906216,120.9799696
+"Cebu, philippines",10.45,123.84
+"Bacolod,philippines",10.6762836,122.9513786
+"MDC100 Libis, philippines",14.6159292,121.076777
+"Chengdu,China",30.6765553,104.0612783
+"Berlin,Germany",52.5170365,13.3888599
+"Regensburg,Germany",49.0195333,12.0974869
+"Cork,Ireland",51.8979282,-8.4705805
+"Rabat,Morocco",34.0224046,-6.8345426
+"Edinburgh,United Kingdom",55.9495628,-3.1914971
+"Scotland,United Kingdom",56.7861112,-4.1140517
+"Sapporo,Japan",43.044768,141.337215
+"Heredia,Costa Rica",10.17797235,-84.0582362632662
+"San Jose, Costa Rica",9.9325427,-84.0795781
+"Montevideo,Uruguay",-34.9059038,-56.1913568
+"Cagliari,Italy",39.22038815,9.10790566292
+"Kingston, Jamaica",17.9712148,-76.7928127
+"Czestochowa,Poland",50.8120466,19.113213

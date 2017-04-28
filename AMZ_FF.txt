@@ -1,0 +1,143 @@
+Goodyear, Arizona
+Phoenix, Arizona
+Eastvale, California
+Irvine, California
+San Bernardino, California
+Patterson, California
+Tracy, California
+Stockton, California
+Newark, California
+Moreno Valley, California
+Redlands, California
+Windsor Locks, Connecticut
+Middletown, Delaware
+New Castle, Delaware 
+Davenport, Florida
+Ruskin, Florida
+Lakeland, Florida
+Doral, Florida
+East Point, Georgia
+Lithia Springs, Georgia
+Union City, Georgia
+Jeffersonville, Indiana
+Plainfield, Indiana
+Whitestown, Indiana
+Indianapolis, Indiana
+Joliet, Illinois
+Edwardsville, Illinois
+Lenexa, Kansas
+Edgerton,Kansas
+Campbellsville, Kentucky
+Hebron, Kentucky
+Lexington, Kentucky
+Louisville, Kentucky
+Shepherdsville, Kentucky
+Baltimore, Maryland
+Fall River, Massachusetts
+Stoughton, Massachusetts
+Shakopee, Minnesota
+Fernley, Nevada
+North Las Vegas, Nevada 
+Reno, Nevada
+Nashua, New Hampshire 
+Avenel, New Jersey 
+Carteret, New Jersey 
+Robbinsville Township, New Jersey
+Swedesboro, New Jersey
+Florence, New Jersey 
+Charlotte, North Carolina 
+Concord, North Carolina
+Durham, North Carolina 
+Carlisle, Pennsylvania 
+Hazleton, Pennsylvania 
+Easton, Pennsylvania 
+Gouldsboro, Pennsylvania 
+Lewisberry, Pennsylvania 
+Breinigsville, Pennsylvania
+Harrisburg, Pennsylvania
+Pittsburgh, Pennsylvania 
+Mississauga, Ontario 
+West Columbia, South Carolina 
+Spartanburg, South Carolina 
+Chattanooga, Tennessee 
+Charleston, Tennessee
+Lebanon, Tennessee
+Murfreesboro, Tennessee 
+Nashville, Tennessee 
+Coppell, Texas 
+Fort Worth, Texas
+Humble, Texas 
+San Marcos, Texas 
+Schertz, Texas 
+Chester, Virginia 
+Petersburg, Virginia 
+Bellevue, Washington 
+DuPont, Washington 
+Sumner, Washington
+Kent, Washington
+Kenosha, Wisconsin
+Milton, Ontario 
+Brampton, Ontario 
+Annacis Island , British Columbia
+New Westminster, British Columbia 
+Cuautitlán Izcalli,Mexico
+Ridgmont,England
+Rugeley, Staffordshire
+Peterborough,England
+Doncaster,England
+Hemel Hempstead,England
+Reading,England
+Gourock ,scotland
+Dunfermline,scotland
+Swansea,Wales
+boigny sur bionne, France
+Saran,France
+Montélimar,France
+Sevrey,France
+Lauwin-Planque,France
+Bad Hersfeld,Germany 
+Leipzig,Germany
+Werne ,Germany
+Rheinberg ,Germany
+Graben ,Germany
+Koblenz ,Germany
+Pforzheim ,Germany
+Brieselang ,Germany
+Poznan ,Poland
+Wroclaw, Poland
+Castel San Giovanni,Italy
+Milan,Italy
+Avigliana ,Italy
+Passo Corese ,Italy
+Bratislava,Slovakia
+Madrid, Spain
+Ichikawa,Japan
+Yachiyo,Japan
+Chiba,Japan
+Sakai,Japan
+Daito,Japan
+Osaka,Japan
+Kawagoe,Japan
+Saitama,Japan
+Guangzhou,China
+Suzhou,China
+Beijing,China
+Chengdu,China
+Tianjin,China
+Shanghai,China
+Haerbin,China
+Shenyang,China
+Jinan,China
+Nanning,China
+Xi'an,China
+Xiamen,China
+Mumbai,India
+Bangalore,India
+Hyderabad,India
+Chennai ,India
+Ahmedabad,India
+Jaipur,India
+Gurgaon,India
+Pune ,India
+Delhi,India
+Kolkata,India
